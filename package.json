@@ -1,27 +1,27 @@
 {
-  "name": "chanhdai.com",
+  "name": "surafel.dev",
   "version": "0.1.0",
   "description": "A minimal, pixel-perfect dev portfolio, shadcn registry, and blog.",
-  "homepage": "https://chanhdai.com",
+  "homepage": "https://surafel.dev",
   "license": "MIT",
   "author": {
-    "name": "Nguyen Chanh Dai",
-    "email": "dai@chanhdai.com",
-    "url": "https://github.com/ncdai"
+    "name": "Surafel Gudisa",
+    "email": "imsurafeldotdev@gmail.com",
+    "url": "https://github.com/samuelandrsonsamuelandrson"
   },
   "contributors": [
     {
-      "name": "Nguyen Chanh Dai",
-      "email": "dai@chanhdai.com",
-      "url": "https://github.com/ncdai"
+      "name": "Surafel Gudisa",
+      "email": "imsurafeldotdev@gmail.com",
+      "url": "https://github.com/samuelandrson"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ncdai/chanhdai.com.git"
+    "url": "git+https://github.com/samuelandrson/surafel.dev.git"
   },
   "scripts": {
-    "dev": "portless ncdai next dev",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "preview": "next build && portless ncdai next start",

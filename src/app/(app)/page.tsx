@@ -54,8 +54,8 @@ export default function Page() {
         <GitHubContributions />
         <Separator />
 
-        <Sponsors />
-        <Separator />
+        {/* <Sponsors />
+        <Separator /> */}
 
         <TechStack />
         <Separator />

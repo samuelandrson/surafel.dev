@@ -1,10 +1,10 @@
 import type { User } from "@/features/portfolio/types/user"
 
 export const USER: User = {
-  firstName: "Chánh Đại",
-  lastName: "Nguyễn",
-  displayName: "Chánh Đại",
-  username: "ncdai",
+  firstName: "Surafel",
+  lastName: "Gudisa",
+  displayName: "Surafel",
+  username: "imsurafeldotdev",
   gender: "male",
   pronouns: "he/him",
   bio: "Creating with code. Small details matter.",

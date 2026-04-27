@@ -27,10 +27,10 @@ export const MAIN_NAV: NavItem[] = [
     title: "Blog",
     href: "/blog",
   },
-  {
-    title: "Sponsors",
-    href: "/sponsors",
-  },
+  // {
+  //   title: "Sponsors",
+  //   href: "/sponsors",
+  // },
 ]
 
 export const MOBILE_NAV: NavItem[] = [
@@ -41,13 +41,14 @@ export const MOBILE_NAV: NavItem[] = [
   ...MAIN_NAV,
 ]
 
-export const X_USERNAME = "@iamncdai"
-export const GITHUB_USERNAME = "ncdai"
-export const SOURCE_CODE_GITHUB_REPO = "ncdai/chanhdai.com"
-export const SOURCE_CODE_GITHUB_URL = "https://github.com/ncdai/chanhdai.com"
+export const X_USERNAME = "@imsurafeldotdev"
+export const GITHUB_USERNAME = "samuelandrson"
+export const SOURCE_CODE_GITHUB_REPO = "samuelandrson/surafel.dev"
+export const SOURCE_CODE_GITHUB_URL =
+  "https://github.com/samuelandrson/surafel.dev"
 
-export const SPONSORSHIP_URL = "https://github.com/sponsors/ncdai"
+export const SPONSORSHIP_URL = "https://github.com/sponsors/samuelandrson"
 
 export const UTM_PARAMS = {
-  utm_source: "chanhdai.com",
+  utm_source: "surafel.dev",
 }
